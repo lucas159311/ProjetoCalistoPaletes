@@ -11,16 +11,6 @@ function VerificaTamanho(){
     }
 }
 
-function CriaProdutosMobile(){
-    document.getElementById("ProdutosDesktop").innerHTML = "";
-
-}
-
-function CriaProdutosDesktop(){
-    document.getElementById("ProdutosMobile").innerHTML = "";
-}
-
-
 $(document).ready(function() {
     VerificaTamanho();
   });
