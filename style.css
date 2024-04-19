@@ -41,6 +41,10 @@ body, html {
     object-fit: cover;
     object-position: center center;
 }
+#CarouselGaleria{
+    margin-left: 5%;
+    margin-right: 5%;
+}
 #Inicial{
     margin-top: 1%;
 }
